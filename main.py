@@ -8,7 +8,7 @@ from statsmodels.tsa.seasonal import STL
 import yfinance as yf
 import warnings
 warnings.filterwarnings("ignore")
-from src.analyze_stock import analyze_stock
+from model.analyze_stock import analyze_stock
 from data_visualization.plotlyplot import create_dynamic_chart
 from data_visualization.matplotlib_ani import create_animated_chart
 
