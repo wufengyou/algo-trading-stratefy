@@ -42,7 +42,7 @@ The project generates visualizations for:
 It also calculates and prints performance metrics including total return, annualized return, Sharpe ratio, and maximum drawdown.
 
 
-<pre><div class="dark bg-gray-950 rounded-md border-[0.5px] border-token-border-medium"><div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-markdown">![描述](images/stock_animation.gif)
+<pre><div class="dark bg-gray-950 rounded-md border-[0.5px] border-token-border-medium"><div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-markdown">![描述](https://github.com/wufengyou/algo-trading-stratefy/blob/master/images/stock_animation.gif)
 </code></div></div></pre>
 
 <video width="820" height="640" controls>
